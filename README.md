@@ -12,7 +12,7 @@ Some information about browsers & javascript.
 
 ## [modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
-* Implementations began in 2017
+* Implementations began in **2017**
 * Chrome version 61+ (September 5, 2017)
 * Firefox version 60+ (June 26, 2018)
 * Safari 10.1+ (March 27, 2017)
