@@ -16,3 +16,4 @@ Some information about browsers & javascript.
 * Chrome version 61+ (September 5, 2017)
 * Firefox version 60+ (June 26, 2018)
 * Safari 10.1+ (March 27, 2017)
+ 
